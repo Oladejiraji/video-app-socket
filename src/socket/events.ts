@@ -5,7 +5,7 @@ import {
   ServerToClientEvents,
   SocketData,
 } from "../constants/types";
-import Users from "../../data/users";
+import Users from "../data/users";
 
 export const onConnected = async (
   socket: Socket<

@@ -1,4 +1,4 @@
-import { UserType } from "../src/constants/types";
+import { UserType } from "../constants/types";
 
 const Users: UserType[] = [];
 
